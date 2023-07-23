@@ -1,5 +1,4 @@
 h1{
-
      font-family: 'Coco';
      color: white;
      -webkit-text-stroke: 4px rgb(0, 0, 0);
@@ -12,9 +11,16 @@ h2{
     text-shadow:0 4px 0 #000000, 0 -4px 0 #000000 , 4px 0 0 #000000;
 }
 
+
 h3{
+    transition: color 0.5s;
     font-family: 'Arial';
     color: rgb(255, 255, 255);
+}
+
+h3:hover{
+
+color: #18a3df;
 }
 
 #myVideo {
