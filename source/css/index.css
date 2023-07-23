@@ -8,7 +8,6 @@ h1{
 h2{
     font-family: 'Coco';
     color: rgb(255, 255, 255);
-    text-shadow:0 4px 0 #000000, 0 -4px 0 #000000 , 4px 0 0 #000000;
 }
 
 
@@ -35,3 +34,4 @@ color: #18a3df;
     position: fixed;
     z-index: 1;
 }
+
