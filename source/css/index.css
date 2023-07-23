@@ -2,11 +2,13 @@ h1{
 
      font-family: 'Coco';
      color: white;
+     -webkit-text-stroke: 2px rgb(0,159,227);
 }
 
 h2{
     font-family: 'Coco';
     color: rgb(255, 255, 255);
+    -webkit-text-stroke: 1px rgb(0,159,227);
 }
 
 h3{
